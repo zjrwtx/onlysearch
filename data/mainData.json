@@ -21,7 +21,7 @@
         "sugurl": "https://api.bing.com/qsonhs.aspx?type=cb&q=#content#&cb=window.bing.sug",
         "icon": "./img/engineLogo/bing.ico",
         "show": true,
-        "select": "selected"
+        "select": ""
     }, {
         "name": "百度",
         "value": "baidu",
