@@ -29,7 +29,7 @@
         "sugurl": "https://suggestion.baidu.com/su?wd=#content#&cb=window.baidu.sug",
         "icon": "./img/engineLogo/baidu.svg",
         "show": true,
-        "select": ""
+        "select": "selected"
     }, {
         "name": "搜狗",
         "value": "sougou",
