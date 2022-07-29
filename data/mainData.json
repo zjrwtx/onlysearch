@@ -19,7 +19,7 @@
         "value": "bilibili",
         "href": "https://search.bilibili.com/all?keyword=",
         "sugurl": "https://api.bing.com/qsonhs.aspx?type=cb&q=#content#&cb=window.bing.sug",
-        "icon": "./img/engineLogo/",
+        "icon": "./img/engineLogo/bing.ico",
         "show": true,
         "select": ""
     }, {
@@ -41,7 +41,7 @@
     }, {
         "name": "知乎",
         "value": "zhihu",
-        "href": "https://www.so.com/s?ie=utf-8&fr=hao_360so&src=home_hao_360so&q=",
+        "href": "https://www.zhihu.com/search?type=content&q=",
         "sugurl": "https://sug.so.360.cn/suggest?encodein=utf-8&encodeout=utf-8&format=json&word=#content#&callback=window.so.sug",
         "icon": "./img/engineLogo/so360.ico",
         "show": true,
